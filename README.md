@@ -3,7 +3,7 @@
 
 ## Descrição
 
-Este é um projeto simples de lista de tarefas, construído com **Spring Boot** no back-end e uma interface front-end utilizando **HTML**, **CSS** e **JavaScript**. O usuário pode adicionar, editar, excluir e marcar/desmarcar tarefas como concluídas.
+Este é um projeto simples de lista de tarefas, construído com **Spring Boot** no back-end e uma interface front-end utilizando **HTML**, **CSS** e **JavaScript**. O usuário pode adicionar, excluir e marcar/desmarcar tarefas como concluídas.
 
 ## Funcionalidades
 

@@ -55,7 +55,7 @@ async function toggleTask(id, checkbox) {
         },
         body: JSON.stringify({ completed: checkbox.checked }),
     });
-    
+
     fetchTasks();
 }
 

@@ -103,7 +103,3 @@ button.delete:hover {
     background-color: #b83b5e;
 }
 
-.completed {
-    text-decoration: line-through;
-    color: #9a8c98;
-}
